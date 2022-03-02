@@ -1,0 +1,4 @@
+requirements:
+
+In the project we used familiar libraries (sklearn, numpy , pandas) therefore no further installations are required.
+
