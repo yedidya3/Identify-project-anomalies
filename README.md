@@ -6,8 +6,8 @@ Details of the files in Git:
 
 Folder data_sets - Contains 4 datasets we used in the experiment
 
-Folder experiment - contains the experiment and its results:
-File list:
+Folder experiment - contains the experiment and its results:<br />
+File list:<br />
 data1.ipynb,data2.ipynb,data3.ipynb,data4.ipynb - ipynb files of running the experiment and its results
 
 dect_function.py  - contains the functions of combinations of anomalous algorithm combinations.
