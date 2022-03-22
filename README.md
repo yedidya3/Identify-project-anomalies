@@ -3,7 +3,7 @@
 The purpose of the project: examining combinations of anomaly detection algorithms.<br />
 
 ## Details of the files in Git:.<br /><br />
-Tabular_Data_Science_Project___Outliers_Detection.pdf - Project description and experiment file<br />
+Tabular_Data_Science_Project___Outliers_Detection.pdf - The working document detailing all the steps and all the results<br />
 
 Folder data_sets - Contains 4 datasets we used in the experiment.<br /><br />
 Folder experiment - contains the experiment and its results:<br />
